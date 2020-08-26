@@ -15,4 +15,4 @@
 
 # > pip2 install requests 
 
-# python2 Locked-Clone.py
+# > python2 Locked-Clone.py
