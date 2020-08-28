@@ -2,13 +2,9 @@
 
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-<p align="center">
-
-<a href="#"><img title="Profile Locked" src="https://raw.githubusercontent.com/Tech-abm/release-download/master/images/banner/profilelocked.png"></a>
 
 
-
-### Profile-lock-clone
+### Profile-lock ❕
  
 
  > `apt update && apt upgrade` 
